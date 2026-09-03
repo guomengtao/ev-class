@@ -1,0 +1,89 @@
+{
+  "item": {
+    "id": "com.evclass.quickapp",
+    "restype": "quick_app",
+    "name": "Ev课程表  免费版",
+    "description": "手环上免费的智能课程管理应用。支持环端更改课程，无需下载同步器即可使用！",
+    "preview": [
+      "media/1788011793889.webp",
+      "media/1788011806929.webp",
+      "media/1788011820333.webp",
+      "media/1788011834441.webp",
+      "media/1788011850373.webp",
+      "media/1788011866353.webp"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/Screenshot 2026-09-04 at 12.43.54 AM.png",
+    "author": [
+      {
+        "name": "peipeijin",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "功能介绍",
+      "url": "https://share.traecontent.cn/artifact/I3W4XHZ.E_RONI",
+      "icon": "Link"
+    }
+  ],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.2.73",
+      "file_name": "downloads/com.application.watch.classschedule.debug.1.2.73.rpk",
+      "versionCode": 116,
+      "updatelogs": [
+        {
+          "version": "1.2.73",
+          "content": "适配了Band 10 / Band 9 / Band 9pro"
+        }
+      ]
+    },
+    "xmb9": {
+      "version": "1.2.73",
+      "file_name": "downloads/com.application.watch.classschedule.debug.1.2.73.rpk",
+      "versionCode": 116,
+      "updatelogs": [
+        {
+          "version": "1.2.73",
+          "content": "适配了Band 10 / Band 9 / Band 9pro"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "1.2.73",
+      "file_name": "downloads/com.application.watch.classschedule.debug.1.2.73.rpk",
+      "versionCode": 116,
+      "updatelogs": [
+        {
+          "version": "1.2.73",
+          "content": "适配了Band 10 / Band 9 / Band 9pro"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "1.2.73",
+      "file_name": "downloads/com.application.watch.classschedule.debug.1.2.73.rpk",
+      "versionCode": 116,
+      "updatelogs": [
+        {
+          "version": "1.2.73",
+          "content": "适配了Band 10 / Band 9 / Band 9pro"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "1.2.73",
+      "file_name": "downloads/com.application.watch.classschedule.debug.1.2.73.rpk",
+      "versionCode": 116,
+      "updatelogs": [
+        {
+          "version": "1.2.73",
+          "content": "适配了Band 10 / Band 9 / Band 9pro"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
